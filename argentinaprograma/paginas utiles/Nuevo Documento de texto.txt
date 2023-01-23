@@ -1,0 +1,5 @@
+https://www.lipsum.com/ para buscar texto de relleno para ver como queda
+https://www.w3schools.com/css/css_boxmodel.asp buscar como se usa html o css
+https://htmlcheatsheet.com/css/ atributos para css
+https://fonts.google.com/ buscar tipo de letra
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries pagina para sacar tambien formas de hacer el diseño de css
