@@ -1,0 +1,74 @@
+body{
+    background-color: blanchedalmond;
+}
+.demo{
+    display: none;
+}
+p {
+    
+    padding: 5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 12px;
+    margin-right: 600px;
+    color: rgb(0, 0, 0);
+}
+
+
+
+h1{
+    
+    text-align: center;
+    border: 1px solid black; 
+    padding: 10px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+    color: rgb(46, 46, 46);
+    font-family: 'Oswald', sans-serif
+
+    }
+nav {
+    display: none;
+    border: 1px solid black; 
+    color: rgb(0, 0, 0); 
+    padding: 5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 12px;
+    margin-right: 700px;
+    font-weight: bold;
+    background-color:blanchedalmond;
+    
+    justify-content: left;
+}
+div { 
+    display: none;
+   column-count: 3; 
+   column-width: 450px; 
+
+} 
+.clasedato{
+    background-color: darksalmon;
+    color: black;
+    
+}
+
+
+.clase1{
+    color: black;
+}
+.clase2{
+    background-color: rgba(119, 10, 3, 0.849);
+}
+.claseparanav{
+background-color: aliceblue;
+text-align: left;
+}
+.titulo{
+    background-color: rgb(168, 124, 124) ;
+    display: flex;
+    justify-content: center;
+}
